@@ -1,6 +1,10 @@
 # Image Duplicate Scanner
 
-A safe and intelligent tool for finding and managing duplicate images and their scaled versions.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+
+A safe and intelligent tool for finding and managing duplicate images and their scaled versions. Features automatic dimension-based renaming and multiple perceptual hash algorithms for accurate detection.
 
 ## Features
 
